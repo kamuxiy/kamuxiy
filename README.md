@@ -7,16 +7,13 @@
 
 <br/>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamuxiy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuxiy&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<a href="https://codetime.dev"><img alt="CodeTime Usage" src="https://codetime.dev/api/widgets/usage.svg?uid=37545&theme=light&style=minimal&range=30d"></a>
+<br/>
+<a href="https://codetime.dev"><img alt="CodeTime Languages" src="https://codetime.dev/api/widgets/donut.svg?uid=37545&days=30&limit=6&theme=dark"></a>
+<br/>
+<a href="https://codetime.dev"><img alt="CodeTime Trend" src="https://codetime.dev/api/widgets/trend.svg?uid=37545&days=90&theme=light"></a>
+<br/>
+<a href="https://codetime.dev"><img alt="CodeTime Activity Calendar" src="https://codetime.dev/api/widgets/calendar.svg?uid=37545&theme=light"></a>
 <br/>
 
 ## Connect with me
@@ -33,10 +30,6 @@
 
 <br/>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kamuxiy&&style=flat-square" align="center" />
-</div>
 
 <br />
 
